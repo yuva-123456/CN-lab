@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class Parity2D {
+public class Main {
     public static void main(String[] a){
         Scanner s = new Scanner(System.in);
 
